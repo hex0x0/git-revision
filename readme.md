@@ -42,5 +42,19 @@ Eu já até comitei o arquivo e agora?
 - [ ] git branch nova_ramificacao (cria uma nova ramificacao que aponta para onde HEAD está apontando)
 - [ ] git checkout -b nova_ramificacao (HEAD agora aponta para essa branch)
 - [ ] git reflog (histórico de tudo que fizemos desde a inicialização do repositório local)
+- [ ] git checkout main_branch (Retorna para a branch principal)
+- [ ] Na branch principal, git merge branch_ramificada
 
+    **Last but not least**
+- [x] git clone url_aqui
+
+    **Se você realizou alguma alteração no seu repositório remoto que não se refletiu no seu rep. local**
+- [x] git pull
+
+
+    **Você clona o rep de alguém e faz alterações e as manda pro owner do rep você está fazendo um pull request**
+
+### open pull request
+
+Para realizar contribuições na comunidade opensource
 
