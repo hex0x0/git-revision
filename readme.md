@@ -24,22 +24,22 @@
 
 - [x] git log -p (mostra o estado anterior à alteração e o posterior)
 
-### Comandos que eu ainda não sei
+### Comandos que eu ainda não usei
 
-- [] git commit --amend (para corrigir commits errados)
-- [] git push origin --delete nome_branch_antiga (ex: master) seguido de git push origin branch_atual
-- [] git add arquivo_esquecido + git commit --amend (para adicionar um arquivo que você esqueceu no último commit)
+- [ ] git commit --amend (para corrigir commits errados)
+- [ ] git push origin --delete nome_branch_antiga (ex: master) seguido de git push origin branch_atual
+- [ ] git add arquivo_esquecido + git commit --amend (para adicionar um arquivo que você esqueceu no último commit)
 
 * ammend: quer dizer corrigir, arrumar *
 
-- [] git reset arquivo_que_vc_mandou_sem_querer (ex: senhas.txt)
+- [ ] git reset arquivo_que_vc_mandou_sem_querer (ex: senhas.txt)
 
 Eu já até comitei o arquivo e agora?
 
-- [] git reset --soft HEAD~1 (Retorna para o estado antes do commit) / git reset arquivo.txt
+- [ ] git reset --soft HEAD~1 (Retorna para o estado antes do commit) / git reset arquivo.txt
 
-- [] git branch nova_ramificacao (cria uma nova ramificacao que aponta para onde HEAD está apontando)
-- [] git checkout -b nova_ramificacao (HEAD agora aponta para essa branch)
-- [] git reflog (histórico de tudo que fizemos desde a inicialização do repositório local)
+- [ ] git branch nova_ramificacao (cria uma nova ramificacao que aponta para onde HEAD está apontando)
+- [ ] git checkout -b nova_ramificacao (HEAD agora aponta para essa branch)
+- [ ] git reflog (histórico de tudo que fizemos desde a inicialização do repositório local)
 
 
