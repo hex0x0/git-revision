@@ -15,7 +15,7 @@
 - [x] git remote add origin https://github.com/my_account/repository_name.git
 - [x] git push -f origin main (quando você é vida louca)
 
-**Aqui é feita a criação de um repositório de apelido origin que irá receber os arquivos do seu repositório local** 
+    **Aqui é feita a criação de um repositório de apelido origin que irá receber os arquivos do seu repositório local** 
 
 - [x] git push -u origin main (joga o seus arquivos da máquina local no repositório remoto)
 
@@ -31,7 +31,7 @@
 - [ ] git push origin --delete nome_branch_antiga (ex: master) seguido de git push origin branch_atual
 - [ ] git add arquivo_esquecido + git commit --amend (para adicionar um arquivo que você esqueceu no último commit)
 
-**ammend: quer dizer corrigir, arrumar**
+    **ammend: quer dizer corrigir, arrumar**
 
 - [ ] git reset arquivo_que_vc_mandou_sem_querer (ex: senhas.txt)
 
